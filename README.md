@@ -1,4 +1,4 @@
-![Updater]s(https://socialify.git.ci/YuKongA/Updater/image?description=1&descriptionEditable=%E8%8E%B7%E5%8F%96%20HyperOS%2FMIUI%20%E6%9B%B4%E6%96%B0%E4%BF%A1%E6%81%AF&font=Inter&language=1&name=1&owner=1&pattern=Signal&theme=Auto)
+s![Updater]s(https://socialify.git.ci/YuKongA/Updater/image?description=1&descriptionEditable=%E8%8E%B7%E5%8F%96%20HyperOS%2FMIUI%20%E6%9B%B4%E6%96%B0%E4%BF%A1%E6%81%AF&font=Inter&language=1&name=1&owner=1&pattern=Signal&theme=Auto)
 
 <div align="center">
 
